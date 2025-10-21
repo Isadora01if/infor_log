@@ -8,6 +8,8 @@ Uso de fórmulas: CONT.VALORES, CONT.SES, PROCV e CONTE.SES
 ## atividade 3: Plano de produtos e exportação, dados do Comex Stat via Microsoft Excel 
 Uso de fórmulas: PROCV
 <img width="1528" height="561" alt="image" src="https://github.com/user-attachments/assets/3ae4c555-e38b-4feb-9254-03ea8f6d68f6" />
+## atividade 4: Análise e Filtragem de dados do Comex stat no Power BI
+<img width="1209" height="855" alt="image" src="https://github.com/user-attachments/assets/337a70a0-4853-437f-afbc-612749dcabe5" />
 
 
 
