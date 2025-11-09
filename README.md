@@ -19,7 +19,7 @@ Uso de fórmulas: PROCV
 <img width="1072" height="813" alt="image" src="https://github.com/user-attachments/assets/888ed2be-cac5-4fde-965d-d1e9fb6f5e08" />
 
 ## Atividade 6: Graficos sorvetes.
-<img width="1247" height="752" alt="Captura de tela 2025-11-06 222229" src="https://github.com/user-attachments/assets/61aba957-b50a-46d5-8d7a-d861fcd214ef" />
+
 
 
 
