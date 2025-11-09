@@ -17,10 +17,19 @@ Uso de fórmulas: PROCV
 
 ## Atividade 5: Análise e Filtragem de dados do Comex stat no Power BI EXP.2025
 <img width="1072" height="813" alt="image" src="https://github.com/user-attachments/assets/888ed2be-cac5-4fde-965d-d1e9fb6f5e08" />
+<img width="1775" height="858" alt="image" src="https://github.com/user-attachments/assets/b71a6b06-3911-4239-a96e-80333344dbea" />
+
 
 ## Atividade 6: Graficos sorvetes.
 <img width="1105" height="730" alt="image" src="https://github.com/user-attachments/assets/25a5efdc-0452-4c83-81ba-7b68f9fd35f5" />
 <img width="1233" height="879" alt="image" src="https://github.com/user-attachments/assets/9e6acf40-e249-419f-82aa-3baac472a1c4" />
+
+## Atividade 7: Regressão Linear - Salário
+<img width="1405" height="769" alt="image" src="https://github.com/user-attachments/assets/6532e27a-c26d-4107-ad5d-05f18983788d" />
+
+<img width="1675" height="854" alt="image" src="https://github.com/user-attachments/assets/8e442a05-5096-4464-ac42-95751a1f9686" />
+
+
 
 
 
