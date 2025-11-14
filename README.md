@@ -14,6 +14,7 @@ https://github.com/Isadora01if/infor_log/blob/7ecbfb5b495d0484ad140118828063aee4
 ## Atividade 3: Plano de produtos e exportação, dados do Comex Stat via Microsoft Excel 
 Uso de fórmulas: PROCV
 <img width="1528" height="561" alt="image" src="https://github.com/user-attachments/assets/3ae4c555-e38b-4feb-9254-03ea8f6d68f6" />
+
 https://github.com/Isadora01if/infor_log/blob/28f7d9fb8b111b4f3348b6ae6f3bda289d8791cf/dados%20comex%20stat.xlsx
 
 ## Atividade 4: Análise e Filtragem de dados do Comex stat no Power BI
