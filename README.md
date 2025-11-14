@@ -17,6 +17,8 @@ Uso de fórmulas: PROCV
 ## Atividade 4: Análise e Filtragem de dados do Comex stat no Power BI
 <img width="1209" height="855" alt="image" src="https://github.com/user-attachments/assets/337a70a0-4853-437f-afbc-612749dcabe5" />
 
+https://github.com/Isadora01if/infor_log/blob/f8b7c3a999511587a42b5ae09308b6d9f8ce8039/info-Filtros-BI.pbix
+
 ## Atividade 5: Análise e Filtragem de dados do Comex stat no Power BI EXP.2025
 <img width="1072" height="813" alt="image" src="https://github.com/user-attachments/assets/888ed2be-cac5-4fde-965d-d1e9fb6f5e08" />
 
