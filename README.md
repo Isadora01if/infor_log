@@ -22,6 +22,7 @@ https://github.com/Isadora01if/infor_log/blob/f8b7c3a999511587a42b5ae09308b6d9f8
 
 ## Atividade 5: Análise e Filtragem de dados do Comex stat no Power BI EXP.2025
 <img width="1800" height="796" alt="image" src="https://github.com/user-attachments/assets/8cad909f-5052-4306-aeb3-eff6b7c47c6e" />
+https://github.com/Isadora01if/infor_log/blob/2b4aec25727371c78b523b677ae4f71c13f2895e/Aula%205%20BI%20(2).pbix
 
 ## Atividade 6: Graficos sorvetes.
 <img width="1105" height="730" alt="image" src="https://github.com/user-attachments/assets/25a5efdc-0452-4c83-81ba-7b68f9fd35f5" />
