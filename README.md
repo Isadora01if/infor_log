@@ -26,6 +26,8 @@ https://github.com/Isadora01if/infor_log/blob/f8b7c3a999511587a42b5ae09308b6d9f8
 <img width="1105" height="730" alt="image" src="https://github.com/user-attachments/assets/25a5efdc-0452-4c83-81ba-7b68f9fd35f5" />
 <img width="1233" height="879" alt="image" src="https://github.com/user-attachments/assets/9e6acf40-e249-419f-82aa-3baac472a1c4" />
 
+https://github.com/Isadora01if/infor_log/blob/1957d9c3042f5af48296022cdf5d128af7680d95/sorv.ipynb
+
 ## Atividade 7: Regressão Linear - Salário
 <img width="1405" height="769" alt="image" src="https://github.com/user-attachments/assets/6532e27a-c26d-4107-ad5d-05f18983788d" />
 <img width="1647" height="809" alt="image" src="https://github.com/user-attachments/assets/38e92add-7aaf-44b1-bfdd-af897eaf86c9" />
