@@ -38,7 +38,8 @@ https://github.com/Isadora01if/infor_log/blob/1957d9c3042f5af48296022cdf5d128af7
 <img width="1675" height="854" alt="image" src="https://github.com/user-attachments/assets/8e442a05-5096-4464-ac42-95751a1f9686" />
 
 https://github.com/Isadora01if/infor_log/blob/086a83a2f46ec84419270d24b2dac5ef9a69e24e/salario.ipynb
-
+## Prova
+<img width="1856" height="867" alt="image" src="https://github.com/user-attachments/assets/e1bde2a3-6115-4184-9a9b-7e4cfe783b11" />
 
 
 
